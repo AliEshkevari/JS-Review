@@ -1,0 +1,84 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "Dancer in the dark",
+            "year": 2000,
+            "director": "Lars Von Trier",
+            "genre": "Drama",
+            "rating": 7.9
+        },
+        {
+            "id": 2,
+            "name": "The prestige",
+            "year": 2006,
+            "director": "Christopher Nolan",
+            "genre": "Mystery",
+            "rating": 8.5
+        },
+        {
+            "id": 3,
+            "name": "Amelie",
+            "year": 2001,
+            "director": "Jean-Pierre jeunet",
+            "genre": "Romance",
+            "rating": 8.3
+        },
+        {
+            "id": 4,
+            "name": "Inception",
+            "year": 2010,
+            "director": "Christopher Nolan",
+            "genre": "Sci-fi",
+            "rating": 8.8
+        },
+        {
+            "id": 5,
+            "name": "The intern",
+            "year": 2015,
+            "director": "Nancy Meyers",
+            "genre": "Comedy",
+            "rating": 7.1
+        },
+        {
+            "id": 6,
+            "name": "One flew over the cuckoo's nest",
+            "year": 1975,
+            "director": "Milos Forman",
+            "genre": "Drama",
+            "rating": 8.7
+        },
+        {
+            "id": 7,
+            "name": "Arrival",
+            "year": 2016,
+            "director": "Denis Villeneuve",
+            "genre": "Sci-fi",
+            "rating": 7.9
+        },
+        {
+            "id": 8,
+            "name": "Mank",
+            "year": 2020,
+            "director": "David Fincher",
+            "genre": "Biography",
+            "rating": 6.8
+        },
+        {
+            "id": 9,
+            "name": "Full metal jacket",
+            "year": 1987,
+            "director": "Stanley Kubrick",
+            "genre": "War",
+            "rating": 8.2
+        },
+        {
+            "id": 10,
+            "name": "Seven Samurai",
+            "year": 1954,
+            "director": "Akira Kurosawa",
+            "genre": "Drama",
+            "rating": 8.6
+        }
+    ]
+}
