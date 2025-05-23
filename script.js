@@ -190,3 +190,6 @@ async function updateMovie(movieId, info){
 
 
 
+
+
+module.exports = {getMovies, ratingIsEqual, topRatedByGenre, moviesGroupedByGenre, findEqualRatedMovies, addMovie, deleteMovie, updateMovie }
